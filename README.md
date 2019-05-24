@@ -1,4 +1,4 @@
-# project-2-starter
+# project-2
 Project 2: Empirical Analysis
 
 Group members:
